@@ -25,21 +25,3 @@ Credit Card Fraud Detection is a critical application of machine learning in the
 4. **Deployment**:
    - Deploy the trained model in a production environment for real-time fraud detection.
 
-## Usage
-1. **Data Preprocessing**: 
-   - Run the preprocessing script to clean and prepare the dataset.
-   ```bash
-   python preprocess.py
-   ```
-2. **Model Training**: 
-   - Train the machine learning models using the provided training data.
-   ```bash
-   python train.py
-   ```
-3. **Model Evaluation**: 
-   - Evaluate the performance of the trained models using appropriate metrics.
-   ```bash
-   python evaluate.py
-   ```
-4. **Deployment**: 
-   - Deploy the trained model in a production environment for real-time fraud detection.
